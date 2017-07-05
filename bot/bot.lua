@@ -85,11 +85,17 @@ function create_config( )
 	config = {
     enabled_plugins = {
 		"banhammer",
-		"groupmanager",
-		"msg-checks",
-		"plugins",
-		"tools",
-		"fun",
+                "cd",
+                "del",
+                "delall",
+                "fun",
+                "groupmanager",
+                "info",
+                "msg-checks",
+                "plugins",
+                "report",
+                "tools",
+                "warn"
 
 	},
     sudo_users = {284568421, 00000000, sudo_id},
