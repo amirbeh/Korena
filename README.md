@@ -5,7 +5,7 @@
 
 # Installation
 
-**If use KorenaHelper put your helper bot Username Without @ in bot.lua, line 22
+**If use [KorenaHelper](https://github.com/hamidreza7517/korenahelper) put your helper bot Username Without @ in bot.lua, line 22
 
 ```sh
 # Let's install the bot.
