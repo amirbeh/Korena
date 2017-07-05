@@ -1,6 +1,4 @@
-# Korena V1 - Korena anti spam bot
-*An advanced and powerful administration bot based on NEW TG-CLI
-
+# <b>Korena V1 - Korena anti spam bot</b>
 * * *
 
 # Installation  
