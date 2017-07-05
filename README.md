@@ -31,7 +31,6 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  sudo luarocks install lanes
  sudo luarocks install Lua-cURL
 sudo luarocks install luaxmlrpc
-# Let's install the bot.
 ```
 # Third | Other prerequisites
 ```sh
