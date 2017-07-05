@@ -49,6 +49,7 @@ chmod +x korena.sh
 ./korena.sh install
 ./korena.sh 
 # Enter a phone number & confirmation code.
+## Put Your ID in : config line 22 | tools line 1
 ```
 # Fifth | For Auto Launch:
 ```sh
