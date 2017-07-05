@@ -33,7 +33,15 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 sudo luarocks install luaxmlrpc
 # Let's install the bot.
 ```
-# Third | git clone | install
+# Third | Other prerequisites
+```sh
+sudo apt-get install libstdc++6
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test 
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+```
+# Fourth | git clone | install
 ```sh
 cd $HOME
 git clone https://github.com/hamidreza7517/korena.git
@@ -43,7 +51,7 @@ chmod +x korena.sh
 ./korena.sh 
 # Enter a phone number & confirmation code.
 ```
-# Fourth | For Auto Launch:
+# Fifth | For Auto Launch:
 ```sh
 cd korena
 chmod 777 autokor.sh
