@@ -1,5 +1,5 @@
 # <b>Korena V1 - Korena anti spam bot</b>
-![KORENA](/logo.png)
+![KORENA](libs/logo.png)
 * * *
 
 # Installation  
