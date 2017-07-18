@@ -52,8 +52,8 @@ chmod +x korena.sh
 # Fifth | For Auto Launch:
 ```sh
 cd korena
-chmod 777 autokor.sh
-screen ./autokor.sh
+chmod 777 run.sh
+screen ./run.sh
 ```
 
 ### Our Telegram channel:
