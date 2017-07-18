@@ -1,5 +1,5 @@
 # <b>Korena V1 - Korena anti spam bot</b>
-
+[![KorenaTeam](https://www.uplooder.net/img/image/93/30ebdfb01205e36ce2354399b1612884/photo-2017-07-19-01-41-33.jpg)](https://github.com/hamidreza7517)
 * * *
 
 # Installation  
