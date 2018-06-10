@@ -98,7 +98,7 @@ function create_config( )
                 "warn"
 
 	},
-    sudo_users = {284568421, 00000000, sudo_id},
+    sudo_users = {417213708},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
